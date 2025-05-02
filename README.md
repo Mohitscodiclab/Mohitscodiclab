@@ -2,6 +2,7 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/dc2c13170415047e3dd01e091f896bc3de090e3ab0e1bac6c2c373bbeb3b6b50/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323837382f302a4d353049504b5a7a35384679793137382e676966" target="_blank">
         </a>
+      </span>
 # 💫 About Me:
 1. Coding Enthusiast – Main har tarah ke coding projects par kaam karta hoon aur naye challenges lena pasand karta hoon.<br><br><br>2. Unique Projects – Mujhe naye aur innovative projects create karna bahut pasand hai.<br><br><br>3. Polytechnic Student – Abhi main Polytechnic kar raha hoon aur naye technologies seekhne mein interested hoon.<br><br><br>4. Problem Solver – Coding ke madhyam se real-world problems ka solution nikalna mujhe exciting lagta hai.<br><br><br>5. Always Learning – Main naye programming languages aur frameworks explore karne mein vishwas rakhta hoon.
 
