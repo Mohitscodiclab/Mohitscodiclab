@@ -31,4 +31,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake animation](https://raw.githubusercontent.com/<username>/<repo>/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Mohitscodiclab/Mohitscodiclab/output/snake.svg)
