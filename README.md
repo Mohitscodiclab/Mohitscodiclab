@@ -35,3 +35,5 @@
 
 
 ![Pacman animation](https://raw.githubusercontent.com/Mohitscodiclab/Mohitscodiclab/output/pacman.svg)
+
+![Pacman animation](https://raw.githubusercontent.com/Mohitscodiclab/Mohitscodiclab/output/pacman.svg)
