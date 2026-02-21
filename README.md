@@ -31,7 +31,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Snake animation](https://raw.githubusercontent.com/Mohitscodiclab/Mohitscodiclab/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Mohitscodiclab/Mohitscodiclab/output/snake-dark.svg)
 
 
 ![Pacman animation](https://raw.githubusercontent.com/Mohitscodiclab/Mohitscodiclab/output/pacman-contribution-graph-dark.svg)
